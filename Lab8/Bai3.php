@@ -18,7 +18,7 @@
                 $mail->Port = 465;  // port to connect to                
                 $mail->setFrom($nguoigui, $tennguoigui ); 
                 // $to = "insumo1208@gmail.com";
-                // $to_name = "Wuynh";
+                $to_name = "Wuynh";
                 
                 //$mail->addAddress($to, $to_name); //mail và tên người nhận
                
